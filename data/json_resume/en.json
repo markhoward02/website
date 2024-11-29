@@ -1,25 +1,16 @@
 {
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
-    "name": "Richard Hendricks",
-    "label": "Programmer",
+    "name": "Mark Howard",
+    "label": "Sr Software Engineer",
     "image": "https://hugo-theme-gruvbox.schnerring.net/richard-hendricks.webp",
-    "email": "richard.hendricks@piedpiper.com",
-    "phone": "(912) 555-4321",
+    "email": "mark.howard02@outlook.com",
     "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory.",
-    "location": {
-      "city": "San Francisco"
-    },
     "profiles": [
       {
         "network": "GitHub",
-        "username": "hugo-theme-gruvbox",
-        "url": "https://github.com/schnerring/hugo-theme-gruvbox"
-      },
-      {
-        "network": "GitHub",
-        "username": "hugo-mod-json-resume",
-        "url": "https://github.com/schnerring/hugo-mod-json-resume"
+        "username": "markhoward02",
+        "url": "https://github.com/markhoward02"
       },
       {
         "network": "X",
@@ -68,7 +59,9 @@
       "startDate": "2012-01-01",
       "endDate": "2013-01-01",
       "summary": "Global movement of free coding clubs for young people.",
-      "highlights": ["Awarded 'Teacher of the Month'"]
+      "highlights": [
+        "Awarded 'Teacher of the Month'"
+      ]
     }
   ],
   "education": [
@@ -80,7 +73,10 @@
       "startDate": "2011-06-01",
       "endDate": "2014-01-01",
       "score": "4.0",
-      "courses": ["DB1101 - Basic SQL", "CS2011 - Java Introduction"]
+      "courses": [
+        "DB1101 - Basic SQL",
+        "CS2011 - Java Introduction"
+      ]
     }
   ],
   "awards": [
@@ -104,12 +100,20 @@
     {
       "name": "Web Development",
       "level": "Master",
-      "keywords": ["HTML", "CSS", "Javascript"]
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
     },
     {
       "name": "Compression",
       "level": "Master",
-      "keywords": ["Mpeg", "MP4", "GIF"]
+      "keywords": [
+        "Mpeg",
+        "MP4",
+        "GIF"
+      ]
     }
   ],
   "languages": [
@@ -121,7 +125,10 @@
   "interests": [
     {
       "name": "Wildlife",
-      "keywords": ["Ferrets", "Unicorns"]
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
     }
   ],
   "references": [
@@ -139,10 +146,17 @@
         "Built by all women team of newbie programmers",
         "Using modern technologies such as GoogleMaps, Chrome Extension and Javascript"
       ],
-      "keywords": ["GoogleMaps", "Chrome Extension", "Javascript"],
+      "keywords": [
+        "GoogleMaps",
+        "Chrome Extension",
+        "Javascript"
+      ],
       "startDate": "2016-08-24",
       "endDate": "2016-08-24",
-      "roles": ["Team lead", "Designer"],
+      "roles": [
+        "Team lead",
+        "Designer"
+      ],
       "entity": "Smoogle",
       "type": "application"
     }
